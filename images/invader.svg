@@ -1,0 +1,33 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_54_699)">
+<rect width="500" height="500" fill="#1A1B1F"/>
+<circle cx="89.5" cy="73.5" r="3.5" fill="white"/>
+<circle cx="365.5" cy="130.5" r="3.5" fill="white"/>
+<circle cx="396.5" cy="409.5" r="3.5" fill="white"/>
+<circle cx="146.5" cy="346.5" r="3.5" fill="white" fill-opacity="0.5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M325 75H350V100H325V75ZM175 125V150H150V175H125V200H100H75V150H50V200V250H75H100V300H125V375H150V325H175H200V350H225V325V300H275V325V350H300V325H325H350V375H375V300H400V250H425H450V200V150H425V200H400H375V175H350V150H325V125V100H300V125V150H200V125V100H175V75H150V100H175V125ZM350 425H325H300V400H325H350V425ZM200 425H175H150V400H175H200V425Z" fill="#805FC8"/>
+<rect x="150" y="75" width="25" height="25" fill="#3B1D7C"/>
+<rect x="325" y="75" width="25" height="25" fill="#3B1D7C"/>
+<rect x="300" y="100" width="25" height="25" fill="#3B1D7C"/>
+<rect x="175" y="100" width="25" height="25" fill="#3B1D7C"/>
+<rect x="200" y="325" width="25" height="25" fill="#3B1D7C"/>
+<rect x="275" y="325" width="25" height="25" fill="#3B1D7C"/>
+<rect x="350" y="225" width="25" height="25" fill="#3B1D7C"/>
+<rect x="125" y="225" width="25" height="25" fill="#3B1D7C"/>
+<rect x="125" y="375" width="25" height="25" fill="#3B1D7C"/>
+<rect x="350" y="375" width="25" height="25" fill="#3B1D7C"/>
+<rect x="325" y="400" width="25" height="25" fill="#3B1D7C"/>
+<rect x="150" y="400" width="25" height="25" fill="#3B1D7C"/>
+<rect x="175" y="400" width="25" height="25" fill="#F9F8F1"/>
+<rect x="300" y="400" width="25" height="25" fill="#FAF8F1"/>
+<rect x="50" y="150" width="25" height="50" fill="#3B1D7C"/>
+<rect x="425" y="150" width="25" height="50" fill="#3B1D7C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M350 200H300V225H275V250H300H350V200Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200 200H150V250H200H225V225H200V200Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_54_699">
+<rect width="500" height="500" fill="white"/>
+</clipPath>
+</defs>
+</svg>
